@@ -256,7 +256,8 @@ ls -R
 
 * Muestra el contenido de los archivos finales con el comando necesario de Linux.
 ```bash
-cat 
+cat docs.md README.md
+cat style.css index.html app.py main.js
 ```
 ![alt text](imatges/4_2_cata.png)
 ![alt text](imatges/4_2_catb.png)  
